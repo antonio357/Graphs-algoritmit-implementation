@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="467c054b-f662-4f8f-8e9e-2ae591cb9e3b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/roteiros$reading_and_writing.coverage" NAME="reading and writing Coverage Results" MODIFIED="1561004370680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.8/testing the tecniques for the txt process" />
+    <SUITE FILE_PATH="coverage/roteiros$grafo_adj_test.coverage" NAME="grafo_adj_test Coverage Results" MODIFIED="1555110951386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.4" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Busca_em_profundidade_TestGrafo_test_busca_em_profundidade.coverage" NAME="Unittests for Busca_em_profundidade.TestGrafo.test_busca_em_profundidade Coverage Results" MODIFIED="1558739530837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.7" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Khan_DFS_TestGrafo_test_busca_em_profundidadeNaoDirecionados.coverage" NAME="Unittests for Khan_DFS.TestGrafo.test_busca_em_profundidadeNaoDirecionados Coverage Results" MODIFIED="1560346009605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.8" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_DijkstraTest_TestGrafo_test_Dijsktra_Drone.coverage" NAME="Unittests for DijkstraTest.TestGrafo.test_Dijsktra_Drone Coverage Results" MODIFIED="1557009873133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.5" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Busca_em_profundidade_TestGrafo_test_busca_em_profundidadeDirecionados.coverage" NAME="Unittests for Busca_em_profundidade.TestGrafo.test_busca_em_profundidadeDirecionados Coverage Results" MODIFIED="1559585894385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.7" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_grafo_test_TestGrafo_test_print.coverage" NAME="Unittests for grafo_test.TestGrafo.test_print Coverage Results" MODIFIED="1557430796531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.2" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Busca_em_profundidade_TestGrafo_test_busca_em_profundidadeNaoDirecionados.coverage" NAME="Unittests for Busca_em_profundidade.TestGrafo.test_busca_em_profundidadeNaoDirecionados Coverage Results" MODIFIED="1559585890077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.7" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_euler_test_TestEuler_test_caminho_euleriano_path.coverage" NAME="Unittests for euler_test.TestEuler.test_caminho_euleriano_path Coverage Results" MODIFIED="1554764338577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.3" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Prim_Kruskall_TestGrafo_test_Prim.coverage" NAME="Unittests for Prim_Kruskall.TestGrafo.test_Prim Coverage Results" MODIFIED="1557434410914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.6" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Busca_em_profundidade_TestGrafo_test.coverage" NAME="Unittests for Busca_em_profundidade.TestGrafo.test Coverage Results" MODIFIED="1558738787067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.7" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Prim_Kruskall_TestGrafo_test_opPrim.coverage" NAME="Unittests for Prim_Kruskall.TestGrafo.test_opPrim Coverage Results" MODIFIED="1557839456502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.6" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Khan_DFS_TestGrafo__1_.coverage" NAME="Unittests for Khan_DFS.TestGrafo (1) Coverage Results" MODIFIED="1560188929332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.8 - Copia" />
+    <SUITE FILE_PATH="coverage/roteiros$grafo_adj_nao_dir.coverage" NAME="grafo_adj_nao_dir Coverage Results" MODIFIED="1552799397033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.2" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Prim_Kruskall_TestGrafo_test_Kruskall_op.coverage" NAME="Unittests for Prim_Kruskall.TestGrafo.test_Kruskall_op Coverage Results" MODIFIED="1559007250633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.6" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_in_Prim_Kruskall_py.coverage" NAME="Unittests in Prim_Kruskall.py Coverage Results" MODIFIED="1557855999626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.6" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Prim_Kruskall_TestGrafo_test_Kruskall.coverage" NAME="Unittests for Prim_Kruskall.TestGrafo.test_Kruskall Coverage Results" MODIFIED="1559131742796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.6" />
+    <SUITE FILE_PATH="coverage/roteiros$my_own_test.coverage" NAME="my_own_test Coverage Results" MODIFIED="1557699871969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.6" />
+    <SUITE FILE_PATH="coverage/roteiros$ok.coverage" NAME="ok Coverage Results" MODIFIED="1557700513328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.6" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_grafo_test_TestGrafo_test_comprimento_de_tamanho_n.coverage" NAME="Unittests for grafo_test.TestGrafo.test_comprimento_de_tamanho_n Coverage Results" MODIFIED="1552796779960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.2" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_in_Khan_DFS_py.coverage" NAME="Unittests in Khan_DFS.py Coverage Results" MODIFIED="1560188745545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.8" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_grafo_test_TestGrafo_test_ha_laco.coverage" NAME="Unittests for grafo_test.TestGrafo.test_ha_laco Coverage Results" MODIFIED="1552401370376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.2" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Prim_Kruskall_TestGrafo.coverage" NAME="Unittests for Prim_Kruskall.TestGrafo Coverage Results" MODIFIED="1559007258997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.6" />
+    <SUITE FILE_PATH="coverage/roteiros$utilScripts.coverage" NAME="utilScripts Coverage Results" MODIFIED="1560188379400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/roteiros$cadastrando.coverage" NAME="cadastrando Coverage Results" MODIFIED="1555721571107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.5" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_euler_test_TestEuler_test_caminho_euleriano.coverage" NAME="Unittests for euler_test.TestEuler.test_caminho_euleriano Coverage Results" MODIFIED="1554764334906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.3" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_grafo_adj_test_TestGrafo_test_vertices_nao_adjacentes.coverage" NAME="Unittests for grafo_adj_test.TestGrafo.test_vertices_nao_adjacentes Coverage Results" MODIFIED="1556937689203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.4" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_grafo_test_TestGrafo_test_eh_completo.coverage" NAME="Unittests for grafo_test.TestGrafo.test_eh_completo Coverage Results" MODIFIED="1552524037946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.2" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_grafo_test_TestGrafo_test_arestas_sobre_vertice.coverage" NAME="Unittests for grafo_test.TestGrafo.test_arestas_sobre_vertice Coverage Results" MODIFIED="1552514573983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.2" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_in_Khan_DFS_py__1_.coverage" NAME="Unittests in Khan_DFS.py (1) Coverage Results" MODIFIED="1560188997197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Khan_DFS_TestGrafo_testDFS.coverage" NAME="Unittests for Khan_DFS.TestGrafo.testDFS Coverage Results" MODIFIED="1561554258664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.8" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_in_DijkstraTest_py.coverage" NAME="Unittests in DijkstraTest.py Coverage Results" MODIFIED="1556987728643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.5" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_DijkstraTest_TestGrafo_test_Dijstra.coverage" NAME="Unittests for DijkstraTest.TestGrafo.test_Dijstra Coverage Results" MODIFIED="1557009366239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.5" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Khan_DFS_TestGrafo_testKhan.coverage" NAME="Unittests for Khan_DFS.TestGrafo.testKhan Coverage Results" MODIFIED="1561552975253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.8" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Khan_DFS_TestGrafo.coverage" NAME="Unittests for Khan_DFS.TestGrafo Coverage Results" MODIFIED="1561554307175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.8" />
+    <SUITE FILE_PATH="coverage/roteiros$my_own_test__1_.coverage" NAME="my_own_test (1) Coverage Results" MODIFIED="1557006854684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.5" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Busca_em_profundidade_TestGrafo.coverage" NAME="Unittests for Busca_em_profundidade.TestGrafo Coverage Results" MODIFIED="1560198299985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.7" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_grafo_test_TestGrafo__1_.coverage" NAME="Unittests for grafo_test.TestGrafo (1) Coverage Results" MODIFIED="1552308474180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.1" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_grafo_test_TestGrafo_test_eh_conexo.coverage" NAME="Unittests for grafo_test.TestGrafo.test_eh_conexo Coverage Results" MODIFIED="1553045623482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.2" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_in_Busca_em_profundidade_py.coverage" NAME="Unittests in Busca_em_profundidade.py Coverage Results" MODIFIED="1560188868124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.7" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_in_grafo_test_py.coverage" NAME="Unittests in grafo_test.py Coverage Results" MODIFIED="1555110846464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.1" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_in_grafo_adj_test_py.coverage" NAME="Unittests in grafo_adj_test.py Coverage Results" MODIFIED="1555112573592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.4.1" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_DijkstraTest_TestGrafo.coverage" NAME="Unittests for DijkstraTest.TestGrafo Coverage Results" MODIFIED="1557010839254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.5" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_grafo_test_TestGrafo_test_ha_ciclo.coverage" NAME="Unittests for grafo_test.TestGrafo.test_ha_ciclo Coverage Results" MODIFIED="1553123453563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.2" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_grafo_test_TestGrafo.coverage" NAME="Unittests for grafo_test.TestGrafo Coverage Results" MODIFIED="1552308399552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.2" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Prim_Kruskall_TestGrafo_test_.coverage" NAME="Unittests for Prim_Kruskall.TestGrafo.test_ Coverage Results" MODIFIED="1557432105409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.6" />
+    <SUITE FILE_PATH="coverage/roteiros$reading_and_writing__1_.coverage" NAME="reading and writing (1) Coverage Results" MODIFIED="1561004499691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.8/reformatando os casos de teste" />
+    <SUITE FILE_PATH="coverage/roteiros$Unittests_for_Prim_Kruskall_TestGrafo_test.coverage" NAME="Unittests for Prim_Kruskall.TestGrafo.test Coverage Results" MODIFIED="1557838600809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rot.6" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rot.8/Khan_DFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="186" column="77" selection-start-line="186" selection-start-column="77" selection-end-line="186" selection-end-column="77" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ha_</find>
+      <find>conexo</find>
+      <find>eh_conexo</find>
+      <find>tradutor de ar</find>
+      <find>vertices_das_arestas</find>
+      <find>nao_adjacentes</find>
+      <find>nao_adjac</find>
+      <find>vertice_nao</find>
+      <find>adiciona_vertice</find>
+      <find>adi</find>
+      <find>vertices_</find>
+      <find>ha_laco</find>
+      <find>gra</find>
+      <find>vertices_nao_adjacentes</find>
+      <find>ares</find>
+      <find>grau</find>
+      <find>.</find>
+      <find>Grafo</find>
+      <find>tradutor</find>
+      <find>aresta</find>
+      <find>adiciona_</find>
+      <find>adiciona_aresta</find>
+      <find>self.A</find>
+      <find>dit_v_at</find>
+      <find>self.g_l1</find>
+      <find>op</find>
+      <find>print</find>
+      <find>DF</find>
+      <find>khan</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rot.8" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rot.2/grafo_test.py" />
+        <option value="$PROJECT_DIR$/rot.2/grafo_adj_nao_dir.py" />
+        <option value="$PROJECT_DIR$/rot.3/__init__.py" />
+        <option value="$PROJECT_DIR$/rot.3/grafo_adj_nao_dir__test.2.py" />
+        <option value="$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py" />
+        <option value="$PROJECT_DIR$/rot.3/my_own_test.py" />
+        <option value="$PROJECT_DIR$/rot.3/euler_test.py" />
+        <option value="$PROJECT_DIR$/rot.4/Roteiro2/grafo_adj_nao_dir.py" />
+        <option value="$PROJECT_DIR$/rot.4/Roteiro2/grafo_adj_nao_dir2.py" />
+        <option value="$PROJECT_DIR$/rot.4/grafo_adj.py" />
+        <option value="$PROJECT_DIR$/rot.4/grafo_adj_test.py" />
+        <option value="$PROJECT_DIR$/rot.4.1/Roteiro2.py" />
+        <option value="$PROJECT_DIR$/rot.4.1/grafo_adj_test.py" />
+        <option value="$PROJECT_DIR$/rot.4.1/grafo_adj.py" />
+        <option value="$PROJECT_DIR$/rot.4.1/my_own_test.py" />
+        <option value="$PROJECT_DIR$/rot.5/grafos.py" />
+        <option value="$PROJECT_DIR$/rot.5/cadastrando.py" />
+        <option value="$PROJECT_DIR$/rot.5/my_own_test.py" />
+        <option value="$PROJECT_DIR$/rot.5/grafo_adj.py" />
+        <option value="$PROJECT_DIR$/rot.5/DijkstraTest.py" />
+        <option value="$PROJECT_DIR$/rot.6/DijkstraTest.py" />
+        <option value="$PROJECT_DIR$/rot.6/Prim_kruskall.py" />
+        <option value="$PROJECT_DIR$/rot.6/my_own_test.py" />
+        <option value="$PROJECT_DIR$/rot.6/ok.py" />
+        <option value="$PROJECT_DIR$/rot.6/grafo_adj.py" />
+        <option value="$PROJECT_DIR$/rot.6/Prim_Kruskall.py" />
+        <option value="$PROJECT_DIR$/utilScripts.py" />
+        <option value="$PROJECT_DIR$/rot.7/Busca_em_profundidade.py" />
+        <option value="$PROJECT_DIR$/rot.8 - Copia/Khan_DFS.py" />
+        <option value="$PROJECT_DIR$/test/Khan_DFS.py" />
+        <option value="$PROJECT_DIR$/rot.7/grafo_adj.py" />
+        <option value="$PROJECT_DIR$/rot.8/grafo_adj.py" />
+        <option value="$PROJECT_DIR$/rot.8/reading txt.py" />
+        <option value="$PROJECT_DIR$/rot.8/cases" />
+        <option value="$PROJECT_DIR$/rot.8/testing the tecniques for the txt process/cases.txt" />
+        <option value="$PROJECT_DIR$/rot.8/testing the tecniques for the txt process/reading and writing.py" />
+        <option value="$PROJECT_DIR$/rot.8/reformatando os casos de teste/reading and writing.py" />
+        <option value="$PROJECT_DIR$/../../../../../../test/grafo__test.py" />
+        <option value="$PROJECT_DIR$/rot.8/Khan_DFS.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="roteiros" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roteiros" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roteiros" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roteiros" type="462c0819:PsiDirectoryNode" />
+              <item name="rot.7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roteiros" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roteiros" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../isack/MyRain" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carlo\OneDrive\Área de Trabalho\ac\IF\períodos de eng. de comp\Disciplinas do 3º período\Grafos\roteiros\rot.5\nan" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\carlo\OneDrive\Área de Trabalho\ac\IF\períodos de eng. de comp\Disciplinas do 3º período\Grafos\roteiros\test" />
+      <recent name="C:\Users\carlo\OneDrive\Área de Trabalho\ac\IF\períodos de eng. de comp\Disciplinas do 3º período\Grafos\roteiros\rot.8" />
+      <recent name="C:\Users\carlo\OneDrive\Área de Trabalho\ac\IF\períodos de eng. de comp\Disciplinas do 3º período\Grafos\roteiros\rot.8\testing the tecniques for the txt process" />
+      <recent name="C:\Users\carlo\OneDrive\Área de Trabalho\ac\IF\períodos de eng. de comp\Disciplinas do 3º período\Grafos\roteiros\rot.7" />
+      <recent name="C:\Users\carlo\OneDrive\Área de Trabalho\ac\IF\períodos de eng. de comp\Disciplinas do 3º período\Grafos\roteiros\rot.6" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for Khan_DFS.TestGrafo">
+    <configuration name="reading and writing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="roteiros" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rot.8/reformatando os casos de teste" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rot.8/reformatando os casos de teste/reading and writing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reading and writing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="roteiros" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rot.8/testing the tecniques for the txt process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rot.8/testing the tecniques for the txt process/reading and writing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Khan_DFS.TestGrafo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="roteiros" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rot.8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Khan_DFS.TestGrafo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Khan_DFS.TestGrafo.testDFS" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="roteiros" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rot.8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Khan_DFS.TestGrafo.testDFS&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Khan_DFS.TestGrafo.testKhan" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="roteiros" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rot.8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Khan_DFS.TestGrafo.testKhan&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for Khan_DFS.TestGrafo" />
+        <item itemvalue="Python tests.Unittests for Khan_DFS.TestGrafo.testDFS" />
+        <item itemvalue="Python tests.Unittests for Khan_DFS.TestGrafo.testKhan" />
+        <item itemvalue="Python.reading and writing (1)" />
+        <item itemvalue="Python.reading and writing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="467c054b-f662-4f8f-8e9e-2ae591cb9e3b" name="Default Changelist" comment="" />
+      <created>1552307990838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552307990838</updated>
+      <workItem from="1552308016575" duration="1094000" />
+      <workItem from="1552400272377" duration="1757000" />
+      <workItem from="1552415352554" duration="462000" />
+      <workItem from="1552478098111" duration="5325000" />
+      <workItem from="1552523122668" duration="6594000" />
+      <workItem from="1552738831068" duration="31494000" />
+      <workItem from="1552911303598" duration="4254000" />
+      <workItem from="1552924777343" duration="81000" />
+      <workItem from="1552954288451" duration="11447000" />
+      <workItem from="1553104309980" duration="17906000" />
+      <workItem from="1553515538873" duration="5201000" />
+      <workItem from="1553687734288" duration="7251000" />
+      <workItem from="1554064078452" duration="19377000" />
+      <workItem from="1554293452796" duration="4409000" />
+      <workItem from="1554477484584" duration="8173000" />
+      <workItem from="1554726732374" duration="2472000" />
+      <workItem from="1554770342731" duration="5219000" />
+      <workItem from="1554897099958" duration="1152000" />
+      <workItem from="1555033409797" duration="1318000" />
+      <workItem from="1555113279940" duration="15914000" />
+      <workItem from="1555280132551" duration="27580000" />
+      <workItem from="1555718633354" duration="6595000" />
+      <workItem from="1555935439207" duration="3724000" />
+      <workItem from="1556107231710" duration="3642000" />
+      <workItem from="1556345132567" duration="8043000" />
+      <workItem from="1556493663365" duration="15067000" />
+      <workItem from="1556661668162" duration="27193000" />
+      <workItem from="1556906782488" duration="32090000" />
+      <workItem from="1557145713901" duration="14010000" />
+      <workItem from="1557236397355" duration="15597000" />
+      <workItem from="1557360317760" duration="17331000" />
+      <workItem from="1557690023728" duration="9616000" />
+      <workItem from="1557836314522" duration="415000" />
+      <workItem from="1557837801769" duration="5224000" />
+      <workItem from="1557856165986" duration="60000" />
+      <workItem from="1557947305395" duration="142000" />
+      <workItem from="1558115309735" duration="5495000" />
+      <workItem from="1558305566854" duration="391000" />
+      <workItem from="1558526072458" duration="14472000" />
+      <workItem from="1558733477792" duration="21975000" />
+      <workItem from="1559006236123" duration="2217000" />
+      <workItem from="1559131640054" duration="4715000" />
+      <workItem from="1559324130529" duration="4842000" />
+      <workItem from="1559563720741" duration="9682000" />
+      <workItem from="1559737412238" duration="2519000" />
+      <workItem from="1560168902606" duration="1495000" />
+      <workItem from="1560170548123" duration="13667000" />
+      <workItem from="1560341917129" duration="4317000" />
+      <workItem from="1560947313122" duration="12070000" />
+      <workItem from="1561550399589" duration="4126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_Khan_DFS_TestGrafo_testDFS - 2019.06.26 at 09h 54m 23s.xml">
+      <configuration name="Unittests for Khan_DFS.TestGrafo.testDFS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Khan_DFS_TestGrafo_testDFS - 2019.06.26 at 09h 55m 36s.xml">
+      <configuration name="Unittests for Khan_DFS.TestGrafo.testDFS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Khan_DFS_TestGrafo_testDFS - 2019.06.26 at 09h 57m 46s.xml">
+      <configuration name="Unittests for Khan_DFS.TestGrafo.testDFS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Khan_DFS_TestGrafo_testDFS - 2019.06.26 at 09h 58m 30s.xml">
+      <configuration name="Unittests for Khan_DFS.TestGrafo.testDFS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Khan_DFS_TestGrafo_testDFS - 2019.06.26 at 09h 58m 55s.xml">
+      <configuration name="Unittests for Khan_DFS.TestGrafo.testDFS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Khan_DFS_TestGrafo_testDFS - 2019.06.26 at 10h 00m 27s.xml">
+      <configuration name="Unittests for Khan_DFS.TestGrafo.testDFS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Khan_DFS_TestGrafo_testDFS - 2019.06.26 at 10h 00m 45s.xml">
+      <configuration name="Unittests for Khan_DFS.TestGrafo.testDFS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Khan_DFS_TestGrafo_testDFS - 2019.06.26 at 10h 02m 03s.xml">
+      <configuration name="Unittests for Khan_DFS.TestGrafo.testDFS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Khan_DFS_TestGrafo_testDFS - 2019.06.26 at 10h 04m 19s.xml">
+      <configuration name="Unittests for Khan_DFS.TestGrafo.testDFS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Khan_DFS_TestGrafo - 2019.06.26 at 10h 05m 07s.xml">
+      <configuration name="Unittests for Khan_DFS.TestGrafo" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="439212000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19213313" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32850242" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32850242" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32850242" />
+      <window_info anchor="bottom" x="2" y="200" width="1316" height="588" id="Run" order="11" weight="0.9291465" />
+      <window_info anchor="bottom" x="-1257" y="188" width="1316" height="362" id="Debug" maximized="true" order="12" weight="0.58293074" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32978722" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19818456" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32850242" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32850242" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32850242" />
+      <window_info anchor="bottom" x="25" y="75" width="1316" height="588" id="Run" maximized="true" order="11" weight="0.9468599" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32978722" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" x="0" y="23" width="1366" height="715" id="Debug" order="5" weight="0.25642964" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>284</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>286</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>305</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>309</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>321</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>324</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>326</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>355</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>367</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>387</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>389</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>394</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>398</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>400</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>429</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>428</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>459</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>461</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>482</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>481</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>488</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>487</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>261</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>242</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/euler_test.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>245</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.4.1/grafo_adj.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.5/nan/my_own_test.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.6/Prim_Kruskall.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.6/Prim_Kruskall.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.8/grafo_adj.py</url>
+          <line>274</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rot.8/grafo_adj.py</url>
+          <line>270</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="ditD" />
+        <watch expression="ditND" />
+        <watch expression="fontes" />
+        <watch expression="lis1" />
+        <watch expression="lis2" />
+        <watch expression="v" />
+        <watch expression="fontes" />
+        <watch expression="OrdTopo" />
+      </configuration>
+      <configuration name="PythonConfigurationType">
+        <watch expression="EV_map" />
+        <watch expression="heap_map" />
+        <watch expression="vertices_adj" />
+        <watch expression="menor_aresta" />
+        <watch expression="m" />
+        <watch expression="v" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.1/grafo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="8" selection-start-line="139" selection-start-column="8" selection-end-line="139" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.1/grafo_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.4/Roteiro2/grafo_adj_nao_dir2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="707" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.4/Roteiro2/grafo_adj_nao_dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="230" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.4.1/my_own_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="58" column="10" selection-start-line="56" selection-end-line="58" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.5/Dijkstra.py" />
+    <entry file="file://$PROJECT_DIR$/rot.4.1/grafo_adj_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="133" column="48" lean-forward="true" selection-end-line="133" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.4.1/Roteiro2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="134" column="23" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.3/grafo_adj_nao_dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="328" column="8" selection-start-line="328" selection-start-column="8" selection-end-line="328" selection-end-column="8" />
+          <folding>
+            <element signature="e#8655#9405#0" />
+            <element signature="e#9466#9581#0" />
+            <element signature="e#10475#10842#0" />
+            <element signature="e#10847#10858#0" />
+            <element signature="e#11768#12176#0" />
+            <element signature="e#12219#12872#0" />
+            <element signature="e#12940#13934#0" />
+            <element signature="e#13978#14339#0" />
+            <element signature="e#14401#15134#0" />
+            <element signature="e#15221#16990#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.3/euler_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="110" column="54" selection-start-line="110" selection-start-column="54" selection-end-line="110" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.4.1/grafo_adj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="134" column="23" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1572667644/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="3676" column="8" selection-start-line="3676" selection-start-column="8" selection-end-line="3676" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.5/nan/cadastrando.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" selection-start-line="3" selection-start-column="22" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.5/nan/result from g_challenger.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/contextlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.4/grafo_adj_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.5/nan/result from g_challenger - drone.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.5/nan/DijkstraTest.py" />
+    <entry file="file://$PROJECT_DIR$/rot.5/g_challenger.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.5/grafo_adj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="355" column="122" selection-start-line="355" selection-start-column="122" selection-end-line="355" selection-end-column="122" />
+          <folding>
+            <element signature="e#101#105#0" />
+            <element signature="e#153#157#0" />
+            <element signature="e#205#209#0" />
+            <element signature="e#348#1621#0" />
+            <element signature="e#348#778#1" />
+            <element signature="e#811#1016#0" />
+            <element signature="e#1203#1330#0" />
+            <element signature="e#1376#1601#0" />
+            <element signature="e#1416#1601#0" />
+            <element signature="e#1671#2945#0" />
+            <element signature="e#1671#2360#1" />
+            <element signature="e#3016#3456#0" />
+            <element signature="e#3016#3380#1" />
+            <element signature="e#3510#3808#0" />
+            <element signature="e#3510#3733#1" />
+            <element signature="e#3865#3908#0" />
+            <element signature="e#3964#4008#0" />
+            <element signature="e#4072#4124#0" />
+            <element signature="e#4187#4238#0" />
+            <element signature="e#4285#4818#0" />
+            <element signature="e#4285#4497#1" />
+            <element signature="e#4574#4795#0" />
+            <element signature="e#4619#4795#0" />
+            <element signature="e#4668#4795#0" />
+            <element signature="e#4863#5303#0" />
+            <element signature="e#4902#5212#0" />
+            <element signature="e#5099#5212#0" />
+            <element signature="e#5347#5566#0" />
+            <element signature="e#5572#5581#0" />
+            <element signature="e#5714#6014#0" />
+            <element signature="e#5784#5997#0" />
+            <element signature="e#5829#5997#0" />
+            <element signature="e#6187#6379#0" />
+            <element signature="e#6279#6360#0" />
+            <element signature="e#6385#7126#1" />
+            <element signature="e#7132#7185#0" />
+            <element signature="e#9458#12183#0" />
+            <element signature="e#9592#9716#0" />
+            <element signature="e#9812#9860#0" />
+            <element signature="e#10061#12183#0" />
+            <element signature="e#10149#10686#0" />
+            <element signature="e#10289#10369#0" />
+            <element signature="e#10422#10440#0" />
+            <element signature="e#10699#10735#0" />
+            <element signature="e#10847#11088#0" />
+            <element signature="e#10944#11088#0" />
+            <element signature="e#11236#11316#0" />
+            <element signature="e#11412#12043#0" />
+            <element signature="e#11553#11664#0" />
+            <element signature="e#11681#11701#0" />
+            <element signature="e#12094#12183#0" />
+            <element signature="e#12313#13103#0" />
+            <element signature="e#12557#12629#0" />
+            <element signature="e#12755#13018#0" />
+            <element signature="e#12933#13018#0" />
+            <element signature="e#13244#14238#0" />
+            <element signature="e#13447#13523#0" />
+            <element signature="e#13615#13999#0" />
+            <element signature="e#14117#14137#0" />
+            <element signature="e#14372#18170#0" />
+            <element signature="e#14507#14631#0" />
+            <element signature="e#14727#14775#0" />
+            <element signature="e#15072#18170#0" />
+            <element signature="e#15160#15597#0" />
+            <element signature="e#15300#15380#0" />
+            <element signature="e#15733#16109#0" />
+            <element signature="e#15830#16109#0" />
+            <element signature="e#15894#15985#0" />
+            <element signature="e#16036#16109#0" />
+            <element signature="e#16287#16572#0" />
+            <element signature="e#16385#16572#0" />
+            <element signature="e#16728#16916#0" />
+            <element signature="e#16986#18029#0" />
+            <element signature="e#17478#18029#0" />
+            <element signature="e#17478#17501#0" />
+            <element signature="e#17702#17825#0" />
+            <element signature="e#17876#18029#0" />
+            <element signature="e#18081#18170#0" />
+            <element signature="e#18214#18828#0" />
+            <element signature="e#18309#18522#0" />
+            <element signature="e#18354#18522#0" />
+            <element signature="e#18567#18801#0" />
+            <element signature="e#18647#18801#0" />
+            <element signature="e#18901#21019#0" />
+            <element signature="e#19270#20556#0" />
+            <element signature="e#19422#19871#0" />
+            <element signature="e#19520#19871#0" />
+            <element signature="e#19574#19871#0" />
+            <element signature="e#20007#20515#0" />
+            <element signature="e#20094#20213#0" />
+            <element signature="e#20281#20515#0" />
+            <element signature="e#20424#20515#0" />
+            <element signature="e#20566#20607#0" />
+            <element signature="e#20846#20966#0" />
+            <element signature="e#21093#21584#0" />
+            <element signature="e#21176#21564#0" />
+            <element signature="e#21653#22737#0" />
+            <element signature="e#21653#21685#0" />
+            <element signature="e#22604#22696#0" />
+            <element signature="e#22642#22696#0" />
+            <element signature="e#22874#27661#0" />
+            <element signature="e#23326#27197#0" />
+            <element signature="e#23359#23417#0" />
+            <element signature="e#23616#25021#0" />
+            <element signature="e#23694#23739#0" />
+            <element signature="e#24677#25021#0" />
+            <element signature="e#24724#25021#0" />
+            <element signature="e#25157#27155#0" />
+            <element signature="e#25210#25308#0" />
+            <element signature="e#25522#26417#0" />
+            <element signature="e#25612#26417#0" />
+            <element signature="e#26232#26321#0" />
+            <element signature="e#26346#26353#0" />
+            <element signature="e#26921#27155#0" />
+            <element signature="e#27064#27155#0" />
+            <element signature="e#27207#27248#0" />
+            <element signature="e#27487#27608#0" />
+            <element signature="e#27783#28534#0" />
+            <element signature="e#27969#28019#0" />
+            <element signature="e#28128#28329#0" />
+            <element signature="e#28250#28329#0" />
+            <element signature="e#28338#28389#0" />
+            <element signature="e#28682#29614#0" />
+            <element signature="e#28885#28935#0" />
+            <element signature="e#29027#29415#0" />
+            <element signature="e#29759#31645#0" />
+            <element signature="e#29759#29773#0" />
+            <element signature="e#30617#31645#0" />
+            <element signature="e#30701#31645#0" />
+            <element signature="e#30745#31645#0" />
+            <element signature="e#31600#31645#0" />
+            <element signature="e#31773#34153#0" />
+            <element signature="e#32142#33766#0" />
+            <element signature="e#32294#33056#0" />
+            <element signature="e#32676#33056#0" />
+            <element signature="e#32730#33056#0" />
+            <element signature="e#33192#33725#0" />
+            <element signature="e#33279#33398#0" />
+            <element signature="e#33466#33725#0" />
+            <element signature="e#33634#33725#0" />
+            <element signature="e#34050#34100#0" />
+            <element signature="e#34200#35069#0" />
+            <element signature="e#34200#34454#1" />
+            <element signature="e#34670#34813#0" />
+            <element signature="e#34891#35043#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.2/grafo_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2146">
+          <caret line="184" column="47" selection-start-line="184" selection-start-column="47" selection-end-line="184" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.5/nan/my_own_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="46" selection-start-line="46" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.5/DijkstraTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.6/my_own_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.6/ok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="612" lean-forward="true" selection-start-column="10" selection-end-column="612" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.6/grafo_adj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3043">
+          <caret line="180" column="13" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.6/Prim_Kruskall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="121" column="56" lean-forward="true" selection-start-line="121" selection-start-column="56" selection-end-line="121" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.8 - Copia/grafo_adj.py" />
+    <entry file="file://$PROJECT_DIR$/rot.8 - Copia/Khan_DFS.py" />
+    <entry file="file://$PROJECT_DIR$/utilScripts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.8/cases" />
+    <entry file="file://$PROJECT_DIR$/rot.8/reading txt.py" />
+    <entry file="file://$PROJECT_DIR$/rot.8/testing the tecniques for the txt process/cases" />
+    <entry file="file://$PROJECT_DIR$/rot.8/cases.txt" />
+    <entry file="file://$PROJECT_DIR$/rot.8/reformatando os casos de teste/casos de teste.txt" />
+    <entry file="file://$PROJECT_DIR$/rot.8/reformatando os casos de teste/cases.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="28" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.8/reformatando os casos de teste/reading and writing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="92" column="58" selection-start-line="92" selection-start-column="58" selection-end-line="92" selection-end-column="58" />
+          <folding>
+            <element signature="e#30#87#0" />
+            <element signature="e#115#326#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../test/grafo__test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="130" column="11" selection-start-line="130" selection-start-column="11" selection-end-line="130" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Khan_DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.7/grafo_adj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="405" column="13" lean-forward="true" selection-start-line="405" selection-start-column="13" selection-end-line="405" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.8/reformatando os casos de teste/casos de teste reformatados.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="67" column="43" lean-forward="true" selection-end-line="67" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.7/Busca_em_profundidade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1977">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.8/grafo_adj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="354" column="32" lean-forward="true" selection-start-line="354" selection-start-column="32" selection-end-line="354" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rot.8/Khan_DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="186" column="77" selection-start-line="186" selection-start-column="77" selection-end-line="186" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
